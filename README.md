@@ -13,8 +13,8 @@ metrics
 
 # 1. Clone the repository:
    bash:  
-   git clone https://github.com/imswaggyboy/vendor-management-system-django.git  
-   cd project-directory (vendor-management-system-django  
+   git clone https://github.com/leelaoggu/django-vendormanagement.git 
+   cd project-directory (django-vendor-management)  
 
 # 2.Create a virtual environment:
 python -m venv venv  
